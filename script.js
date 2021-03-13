@@ -8,12 +8,18 @@ const team = [
   kudos: '50.000'},
 {
   rank: 2,
+  name: 'Poivrot',
+  handle: 'Elo-Sama#5296',
+  img: 'https://cdn.discordapp.com/avatars/320362714453245954/434459be0190195fca869def61e34e70.png?size=1024',
+  kudos: '10.000'},
+{
+  rank: 3,
   name: 'DJ Kebo',
   handle: 'gidor#8217',
   img: 'https://cdn.discordapp.com/avatars/389153519204302858/9e3868f66b5513b46c7e0036bb0ec7bf.webp?size=1024',
   kudos: '10.000'},
 {
-  rank: 3,
+  rank: 4,
   name: 'Skern',
   handle: 'BlaK_EYED#6302',
   img: 'https://cdn.discordapp.com/avatars/663759628848463902/723b8333cab8b2ad64c0dc963b051c9d.png?size=1024',
