@@ -11,19 +11,49 @@ const team = [
   name: 'Poivrot',
   handle: 'Elo-Sama#5296',
   img: 'https://cdn.discordapp.com/avatars/320362714453245954/434459be0190195fca869def61e34e70.png?size=1024',
-  kudos: '10.000'},
+  kudos: '20.000'},
+{
+  rank: 2,
+  name: 'Abatartufum',
+  handle: '𝑳𝒆𝒌𝒌#6269',
+  img: 'https://cdn.discordapp.com/avatars/295561334332981253/87803008326ed10648b104389273d628.png?size=1024',
+  kudos: '20.000'},
 {
   rank: 3,
+  name: 'Bob',
+  handle: 'Le Gnome®#1917',
+  img: 'https://cdn.discordapp.com/avatars/411170233726795778/a_07ea1954a26a9204df684e153f497b3b.png?size=1024',
+  kudos: '12.000'},
+{
+  rank: 4,
   name: 'DJ Kebo',
   handle: 'gidor#8217',
   img: 'https://cdn.discordapp.com/avatars/389153519204302858/9e3868f66b5513b46c7e0036bb0ec7bf.webp?size=1024',
   kudos: '10.000'},
 {
   rank: 4,
+  name: 'Thibault',
+  handle: 'Thibault#3361',
+  img: 'https://cdn.discordapp.com/avatars/179732948826718218/fb12df2e560d9818e6e0218eca06b285.png?size=1024',
+  kudos: '10.000'},
+  {
+  rank: 5,
+  name: 'Tessa',
+  handle: 'Le Gnome®#1917',
+  img: 'https://cdn.discordapp.com/avatars/411170233726795778/a_07ea1954a26a9204df684e153f497b3b.png?size=1024',
+  kudos: '5.000'},
+{
+  rank: 6,
   name: 'Skern',
   handle: 'BlaK_EYED#6302',
   img: 'https://cdn.discordapp.com/avatars/663759628848463902/723b8333cab8b2ad64c0dc963b051c9d.png?size=1024',
-  kudos: '500'}];
+  kudos: '500'},
+{
+  rank: 7,
+  name: 'Abdel',
+  handle: 'Maro ツ#2860',
+  img: 'https://cdn.discordapp.com/avatars/497805073540448268/a_0ce90dbdc0f1c912e5aef2e592933190.png?size=1024',
+  kudos: '200'}];
 
 
 team.forEach(member => {
