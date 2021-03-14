@@ -2,28 +2,28 @@ const team = [
 
 {
   rank: 1,
+  name: 'Sawyer',
+  handle: 'Sawyer#3302',
+  img: 'https://cdn.discordapp.com/avatars/347105684573126678/582bc6bd88a90fe469f0cca9a6d9273c.png?size=1024',
+  kudos: '400.000'},
+{
+  rank: 2,
   name: 'Zhanshi & Abala',
   handle: 'Zhanshi#4916',
   img: 'https://cdn.discordapp.com/avatars/346040604708438017/e61eeb242e7b9ad913dda0c55320d417.png?size=1024',
   kudos: '300.000'},
   {
-  rank: 2,
+  rank: 3,
   name: 'Vostron',
   handle: 'Vostron#1329',
   img: 'https://cdn.discordapp.com/avatars/625306222639185930/3f55b25eab9d9b370eb08029f4b7dcd0.png?size=1024',
   kudos: '200.000'},
   {
-  rank: 3,
+  rank: 4,
   name: 'Sardoche',
   handle: '[Lv.30] 𝑀𝒾𝓈𝓈 𝓢𝓴𝓮𝓵𝓮𝓽𝓸𝓷#5818',
   img: 'https://cdn.discordapp.com/avatars/357184896663420930/2c1daaf6c05a337aa5b9fb8317a42611.webp?size=1024',
   kudos: '150.000'},
-  {
-  rank: 4,
-  name: 'Thomas',
-  handle: 'Sawyer#3302',
-  img: 'https://cdn.discordapp.com/avatars/347105684573126678/582bc6bd88a90fe469f0cca9a6d9273c.png?size=1024',
-  kudos: '100.000'},
 {
   rank: 5,
   name: 'Alice',
