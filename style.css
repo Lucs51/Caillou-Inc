@@ -673,3 +673,13 @@ button, select {
   width: 100%;
   padding: 10px;
 }
+
+.h1caillou{
+  position: fixed;
+  left: 50%;
+}
+
+.p1{
+  position: fixed;
+  left: 50%;
+}
