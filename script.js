@@ -130,7 +130,7 @@ const team = [
   rank: 22,
   name: 'Bosh le pégu',
   handle: 'Non-précisé',
-  img: 'https://static.cnews.fr/sites/default/files/styles/image_640_360/public/point1.jpg?itok=jGTH8XuS',
+  img: 'https://cdn.discordapp.com/attachments/820362180230643726/822474745886015528/unknown.png',
   kudos: '7.000'},
 {
   rank: 23,
