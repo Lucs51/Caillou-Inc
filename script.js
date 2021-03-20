@@ -68,7 +68,7 @@ const team = [
   kudos: '40.000'},
 {
   rank: 12,
-  name: 'Signeur Covok',
+  name: 'Seigneur Covok',
   handle: 'Dovak#4492',
   img: 'https://cdn.discordapp.com/avatars/532558633645375488/2969fc8a62eadaf752fdcf856bf9ffec.png?size=1024',
    kudos: '30.000'},
